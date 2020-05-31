@@ -13,6 +13,8 @@ function chas(){
     console.log(vremya.getMinutes(),' : ',vremya.getSeconds());
     
 }
+let nnnnnnnn=325
+let oooooooo=111
 
 
 let interval = setInterval(chas,100);
